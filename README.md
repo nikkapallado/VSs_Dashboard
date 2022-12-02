@@ -1,2 +1,2 @@
-# VSs_Dashboard
+# vss-dashboard
 Created with CodeSandbox

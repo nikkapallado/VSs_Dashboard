@@ -1,0 +1,10 @@
+.btn-custom {
+  width: auto;
+  height: auto;
+  margin-top: 10px;
+  position: absolute;
+
+  left: 0;
+
+  transform: translateX(30%);
+}

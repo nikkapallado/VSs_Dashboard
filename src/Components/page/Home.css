@@ -1,0 +1,24 @@
+.block {
+  border: 1px solid rgb(13, 76, 158);
+  margin: 10px;
+  padding: 0px;
+  border-radius: 5px;
+}
+.block-2 {
+  border: 1px solid rgb(13, 76, 158);
+  margin: 10px;
+  padding: 0px;
+  border-radius: 5px;
+}
+.card-header {
+  background-color: rgb(13, 76, 158);
+  color: white;
+  font-size: 20px;
+}
+.block-center {
+  margin: 10px;
+  font-size: 40px;
+  color: rgba(56, 136, 56, 0.658);
+  padding: 10px;
+  border-radius: 5px;
+}
